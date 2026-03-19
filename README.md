@@ -84,9 +84,3 @@ streamlit run streamlit_app.py
 
 ## Conclusion
 This project demonstrates how Machine Learning helps telecom companies reduce churn and make better business decisions.
-
----
-
-## Important
-Replace YOUR_USERNAME with your GitHub username before pushing.
-"@ | Set-Content README.md
